@@ -1,4 +1,4 @@
-# Human Depression Prediction
+## Human Depression Prediction with TensorFlow Extended (TFX)
 
 <p align="center">
   <img src="https://d3uhejzrzvtlac.cloudfront.net/compro/articleContent/703d5bda-019c-4500-a2f4-d6d6e46aff92.jpg" />
