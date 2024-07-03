@@ -1,0 +1,7 @@
+/__pycache__/
+/.ipynb_checkpoints/
+/syahvan-pipeline/
+/serving_model_dir/
+
+*.zip
+*.png
