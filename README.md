@@ -1,7 +1,4 @@
-# Submission 1: Human Depression Prediction
-
-Nama: Syahvan Alviansyah Diva Ritonga
-Username Dicoding: syahvan
+# Human Depression Prediction
 
 | | Deskripsi |
 | ----------- | ----------- |
